@@ -19,24 +19,6 @@ Neste projeto, implementei uma série de testes automatizados utilizando o Cypre
 - JavaScript
 - Node.js
 
-## Estrutura do Projeto
-
-```
-/cypress
-  /fixtures
-  /integration
-    /tests
-      login.spec.js
-      compras.spec.js
-      filtros.spec.js
-      logout.spec.js
-  /plugins
-  /support
-cypress.json
-package.json
-README.md
-```
-
 ## Pré-requisitos
 
 - Node.js instalado (versão 12 ou superior)
