@@ -24,20 +24,6 @@ Neste projeto, implementei uma série de testes automatizados utilizando o Cypre
 - Node.js instalado (versão 12 ou superior)
 - npm (gerenciador de pacotes do Node.js)
 
-## Instalação
-
-1. Clone este repositório:
-   ```sh
-   git clone https://github.com/seu-usuario/swag-labs-automation.git
-   ```
-2. Navegue até o diretório do projeto:
-   ```sh
-   cd swag-labs-automation
-   ```
-3. Instale as dependências:
-   ```sh
-   npm install
-   ```
 
 ## Executando os Testes
 
